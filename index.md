@@ -82,13 +82,10 @@
           <!-- Body -->
           <div id="main" class="col-md-12">
             <!-- Intro -->
-            <section>
-              <header>
-                <h2 class="alt">I'm <strong>Pedro Paredes</strong> from <a href="http://cs.princeton.edu" target="_blank" >Princeton University</a></h2>
-              </header>	  
-              <p>I'm a Teaching Professor at <a href="http://cs.princeton.edu" target="_blank">Princeton University</a> in the Department of Computer Science.</p>
+            <section>  
+              <p>I'm a Senior at <a href="http://cs.princeton.edu" target="_blank">Princeton University</a> in the Department of Computer Science.</p>
 
-              <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular I am interested in: <br /> <u>Spectral Graph Theory</u>, <u>Pseudorandomness</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, <u>Quantum Information Theory</u>.</p>
+              <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular I am interested in: <br /> <u>Spectral Graph Theory</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, and <u>Optimization</u>.</p> I am fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.
 
               <h3 id="pubs">Publications</h3>
               <ul>
