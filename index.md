@@ -1,3 +1,4 @@
+<!DOCTYPE HTML>
 <html>
   <head>
     <title>Ijay Narang</title>
@@ -10,7 +11,7 @@
     <link rel="stylesheet" href="css/style.css" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet">
     <style>
-      /* Additional custom styling for sidebar */
+      /* Sidebar styling */
       #sidebar {
         position: fixed;
         top: 0;
@@ -24,7 +25,7 @@
       }
 
       #main-content {
-        margin-left: 270px; /* adjust according to sidebar width */
+        margin-left: 270px; /* Adjust according to sidebar width */
         padding: 20px;
       }
 
@@ -32,6 +33,8 @@
         width: 100%;
         height: auto;
         max-width: 110px;
+        margin: 0 auto; /* Center the image */
+        display: block; /* Make it block-level to apply auto margins */
       }
 
       #logo h1, #logo .byline {
@@ -43,10 +46,32 @@
         background-color: #fff;
         border: 1px solid #ddd;
         border-radius: 5px;
+        padding: 10px 15px;
+        font-size: 16px;
       }
 
       nav .list-group-item i {
         margin-right: 10px;
+      }
+
+      /* Content section styling */
+      h3 {
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 10px;
+        margin-top: 30px;
+      }
+
+      section p {
+        font-size: 16px;
+        line-height: 1.6;
+      }
+
+      section ul {
+        padding-left: 20px;
+      }
+
+      section ul li {
+        margin-bottom: 10px;
       }
     </style>
 
@@ -85,7 +110,7 @@
             <section>  
               <p>I'm a Senior at <a href="http://cs.princeton.edu" target="_blank">Princeton University</a> in the Department of Computer Science.</p>
 
-              <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular I am interested in: <br /> <u>Spectral Graph Theory</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, and <u>Optimization</u>.</p> I am fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.
+              <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular I am interested in: <br /> <u>Spectral Graph Theory</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, and <u>Optimization</u>. I am fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.</p>
 
               <h3 id="pubs">Publications</h3>
               <ul>
@@ -127,7 +152,7 @@
             <footer>
               <!-- Copyright -->
               <div class="copyright">
-                <p>&copy; 2024 Pedro Paredes (Last Update: 02/23/2024)</p>
+                <p>&copy; 2024 Ijay Narang (Last Update: 02/23/2024)</p>
               </div>
             </footer>
           </div>
