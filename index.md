@@ -25,7 +25,7 @@
       }
 
       #main-content {
-        margin-left: 270px; /* Adjust according to sidebar width */
+        margin-left: 250px; /* Adjust according to sidebar width */
         padding: 20px;
       }
 
@@ -41,6 +41,11 @@
         text-align: center;
       }
 
+      nav .list-group {
+        display: flex;
+        flex-direction: column;
+      }
+
       nav .list-group-item {
         margin-bottom: 10px;
         background-color: #fff;
@@ -48,6 +53,9 @@
         border-radius: 5px;
         padding: 10px 15px;
         font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
       }
 
       nav .list-group-item i {
@@ -61,13 +69,19 @@
         margin-top: 30px;
       }
 
+      section {
+        margin: 0;
+      }
+
       section p {
         font-size: 16px;
         line-height: 1.6;
+        margin: 0 0 20px 0;
       }
 
       section ul {
         padding-left: 20px;
+        margin: 0;
       }
 
       section ul li {
@@ -102,7 +116,7 @@
 
     <!-- Main Content -->
     <div id="main-content">
-      <div class="container">
+      <div class="container-fluid">
         <div class="row">
           <!-- Body -->
           <div id="main" class="col-md-12">
