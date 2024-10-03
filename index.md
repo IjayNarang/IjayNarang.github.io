@@ -126,7 +126,7 @@
 
               <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular I am interested in: <br /> <u>Spectral Graph Theory</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, and <u>Optimization</u>. I am fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.</p>
 
-              <h3 id="pubs">Publications</h3>
+              <h3 id="pubs">Research</h3>
               <ul>
                 <li>Publication 1</li>
                 <li>Publication 2</li>
@@ -142,9 +142,9 @@
 
               <h3 id="teach">Teaching</h3>
               <ul>
-                <li>Course 1</li>
-                <li>Course 2</li>
-                <li>Course 3</li>
+                <li>Fall 2024: UCA for COS 326 (Functional Programming) and Lab TA for COS 240 (Intro to TCS)</li>
+                <li>Spring 2023: Lab TA for COS 240 and Grader for COS 445 (Algorithmic Game Theory) </li>
+                <li>Fall 2022</li>
               </ul>
 
               <h3 id="projects">Projects</h3>
