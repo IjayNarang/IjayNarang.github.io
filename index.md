@@ -148,7 +148,11 @@
 
               <h3 id="projects">Projects</h3>
               <ul>
-                <li>Project 1</li>
+                <li>
+                  <strong>Compass:</strong> all-in-one Princeton University course planning app -- now reached 700+ users!
+                  <a href="https://pucompass.com/about" target="_blank">More Info</a>
+                  <p>The application is currently being maintained by Hoagie Club and (has thus) been renamed to HoagiePlan</p>
+                </li>
                 <li>Project 2</li>
                 <li>Project 3</li>
               </ul>
