@@ -150,15 +150,13 @@
               <ul>
                 <li>
                   <strong>Compass:</strong> all-in-one Princeton University course planning app -- now reached 700+ users!
-                  <a href="https://pucompass.com/about" target="_blank">More Info</a>
-                  <p>The application is currently being maintained by Hoagie Club and (has thus) been renamed to HoagiePlan</p>
+                  The application is currently being maintained by Hoagie Club and (has thus) been renamed to HoagiePlan.
+                  <a href="https://pucompass.com/about" target="_blank">See the App Here</a> 
                 </li>
-                <li>Project 2</li>
-                <li>Project 3</li>
               </ul>
 
               <h3 id="about">About Me</h3>
-              <p>Short description about me.</p>
+              <p> Outside of math + CS, I enjoy playing basketball and chess.</p>
             </section>
           </div>
         </div>
