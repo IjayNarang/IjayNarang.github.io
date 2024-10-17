@@ -127,9 +127,8 @@
 
               <h3 id="pubs">Research</h3>
               <ul>
-                <li>Publication 1</li>
-                <li>Publication 2</li>
-                <li>Publication 3</li>
+                <li>Expanding Square Complexes from Graph Products<a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank">View Here</a></li>
+                <li>An Overview of Utilizing Expanders to enhance Error-Correcting Codes <a href="works/survey_on_expanders_in_coding_theory.pdf" target="_blank">View Here</a></li>
               </ul>
 
               <h3 id="talks">Talks</h3>
