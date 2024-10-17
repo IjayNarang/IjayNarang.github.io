@@ -127,15 +127,13 @@
 
               <h3 id="pubs">Research</h3>
               <ul>
-                <li>Expanding Square Complexes from Graph Products<a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank"> [View Here] </a></li>
-                <li>An Overview of Utilizing Expanders to enhance Error-Correcting Codes<a href="works/survey_on_expanders_in_coding_theory.pdf" target="_blank"> [View Here] </a></li>
+                <li><strong>Expanding Square Complexes from Graph Products</strong>, Junior Thesis, Giving Talk at Duke University Math Conference <a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank"> [View Here] </a></li>
+                <li><strong>An Overview of Utilizing Expanders to enhance Error-Correcting Codes</strong><a href="works/survey_on_expanders_in_coding_theory.pdf" target="_blank"> [View Here] </a></li>
               </ul>
 
               <h3 id="talks">Talks</h3>
               <ul>
-                <li>Talk 1</li>
-                <li>Talk 2</li>
-                <li>Talk 3</li>
+                <li> Expanding Square Complexes from Graph Products <a  href = "https://math.duke.edu/research/research-grants/research-training-group/undergrad/undergrad-symposium24" target= "_blank"> Duke University Math Conference </a>
               </ul>
 
               <h3 id="teach">Teaching</h3>
@@ -166,7 +164,7 @@
             <footer>
               <!-- Copyright -->
               <div class="copyright">
-                <p>&copy; 2024 Ijay Narang (Last Update: 02/23/2024)</p>
+                <p>&copy; 2024 Ijay Narang (Last Update: 10/17/2024)</p>
               </div>
             </footer>
           </div>
