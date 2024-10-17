@@ -133,7 +133,7 @@
 
               <h3 id="talks">Talks</h3>
               <ul>
-                <li> <strong> Duke University Math Conference </strong>, Talk titled <em>Expanding Square Complexes from Graph Products </em> <a  href = "https://math.duke.edu/research/research-grants/research-training-group/undergrad/undergrad-symposium24" target= "_blank">  [Event Details] </a>
+                <li> <strong> Duke University Math Conference </strong>, Talk titled: <em>Expanding Square Complexes from Graph Products </em> <a  href = "https://math.duke.edu/research/research-grants/research-training-group/undergrad/undergrad-symposium24" target= "_blank">   [Details] </a></li>
               </ul>
 
               <h3 id="teach">Teaching</h3>
