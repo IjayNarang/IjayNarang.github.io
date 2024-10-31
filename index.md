@@ -131,35 +131,41 @@
         .custom-row {
           display: flex;
           justify-content: space-between;
-          margin-bottom: 10px;
+          margin-bottom: 8px; /* Adjust for a more compact look */
         }
       
         .custom-col {
           flex: 1;
-          padding: 5px;
+          padding: 3px; /* Reduce padding between items */
         }
       
         .custom-half {
-          flex: 0 0 48%; /* Makes the last two items take up half of the row each */
+          flex: 0 0 48%; /* Keep the last two items at half-width */
         }
       
         .list-group-item {
           display: flex;
           align-items: center;
           justify-content: center;
-          font-size: 14px;
-          padding: 10px;
+          font-size: 12px; /* Reduce font size */
+          padding: 6px; /* Reduce padding inside the buttons */
           background-color: #fff;
           border: 1px solid #ddd;
           border-radius: 5px;
           text-align: center;
+          max-width: 100px; /* Optional: limit the width */
         }
       
         .list-group-item i {
-          font-size: 20px;
-          margin-right: 8px;
+          font-size: 16px; /* Reduce icon size */
+          margin-right: 5px; /* Reduce space between icon and text */
+        }
+      
+        .list-group-item span {
+          white-space: nowrap; /* Prevent text wrapping */
         }
       </style>
+      
           
     </div>
 
