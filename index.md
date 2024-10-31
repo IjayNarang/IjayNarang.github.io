@@ -95,7 +95,7 @@
   <body>
     <div id="sidebar">
       <!-- Profile Pic -->
-      <div id="logo" class="clearfix">
+      <div>
         <span class="image"><img src="profile_pic.PNG" alt="Me" class="img-circle" /></span>
         <h1 id="title">Ijay Narang</h1>
       </div>
