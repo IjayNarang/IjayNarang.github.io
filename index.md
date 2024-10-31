@@ -105,71 +105,14 @@
       <!-- Nav -->
       <nav>
         <div class="list-group">
-          <div class="custom-row">
-            <div class="custom-col">
-              <a href="#pubs" class="list-group-item"><i class="fa-solid fa-file"></i><span>Publications</span></a>
-            </div>
-            <div class="custom-col">
-              <a href="#talks" class="list-group-item"><i class="fa-solid fa-circle-play"></i><span>Talks</span></a>
-            </div>
-            <div class="custom-col">
-              <a href="#teach" class="list-group-item"><i class="fa-solid fa-graduation-cap"></i><span>Teaching</span></a>
-            </div>
-          </div>
-          <div class="custom-row">
-            <div class="custom-col custom-half">
-              <a href="#projects" class="list-group-item"><i class="fa-solid fa-toolbox"></i><span>Projects</span></a>
-            </div>
-            <div class="custom-col custom-half">
-              <a href="#about" class="list-group-item"><i class="fa-solid fa-user"></i><span>About Me</span></a>
-            </div>
-          </div>
+          <a href="#pubs" class="list-group-item"><i class="fa-solid fa-file"></i><span>Publications</span></a>
+          <a href="#talks" class="list-group-item"><i class="fa-solid fa-circle-play"></i><span>Talks</span></a>
+          <a href="#teach" class="list-group-item"><i class="fa-solid fa-graduation-cap"></i><span>Teaching</span></a>
+          <a href="#projects" class="list-group-item"><i class="fa-solid fa-toolbox"></i><span>Projects</span></a>
+          <a href="#about" class="list-group-item"><i class="fa-solid fa-user"></i><span>About Me</span></a>
         </div>
       </nav>
-      
-      <style>
-        .custom-row {
-          display: flex;
-          justify-content: space-between;
-          margin-bottom: 8px; /* Adjust for more compact rows */
-          flex-wrap: wrap; /* Allow wrapping to avoid overflow */
-        }
-      
-        .custom-col {
-          flex: 1;
-          padding: 3px; /* Reduce padding between items */
-          min-width: 30%; /* Ensure a minimum width for columns */
-          max-width: 33%; /* Limit maximum width for columns */
-        }
-      
-        .custom-half {
-          flex: 0 0 48%; /* Keep the last two items at half-width */
-        }
-      
-        .list-group-item {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          font-size: 2.5vw; /* Use viewport width to scale text */
-          padding: 1vw; /* Adjust padding proportionally */
-          background-color: #fff;
-          border: 1px solid #ddd;
-          border-radius: 5px;
-          text-align: center;
-          width: 100%; /* Make items fill the column */
-        }
-      
-        .list-group-item i {
-          font-size: 2vw; /* Icon size scales with viewport width */
-          margin-right: 0.5vw; /* Adjust space between icon and text */
-        }
-      
-        .list-group-item span {
-          white-space: nowrap; /* Prevent text wrapping */
-        }
-      </style>
-      
-      
+            
       
           
     </div>
