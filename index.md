@@ -161,7 +161,7 @@
 
               <h3 id="teach">Teaching</h3>
               <ul>
-                <li>Fall 2024: UCA for COS 326 (Functional Programming) and Lab TA for COS 240 (Intro to TCS)</li>
+                <li>Fall 2024: UCA for <a href="https://www.cs.princeton.edu/courses/archive/fall24/cos326/info.php" target="_blank">COS 326</a> (Functional Programming) and Lab TA for <a href="https://www.cs.princeton.edu/courses/archive/fall24/cos240/" target="_blank">COS 240 </a>(Intro to TCS)</li>
                 <li>Spring 2023: Lab TA for COS 240 and Grader for COS 445 (Algorithmic Game Theory) </li>
                 <li>Fall 2022</li>
               </ul>
