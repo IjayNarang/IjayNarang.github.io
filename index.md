@@ -24,7 +24,7 @@
       }
 
       #main-content {
-        margin-left: 150px; /* Adjust according to sidebar width */
+        margin-left: 10px; /* Adjust according to sidebar width */
         padding: 20px;
       }
 
