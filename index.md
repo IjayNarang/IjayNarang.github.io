@@ -150,25 +150,25 @@
           display: flex;
           align-items: center;
           justify-content: center;
-          font-size: 1.2em; /* Font size scales with button size */
-          padding: 6px; /* Reduce padding inside the buttons */
+          font-size: 2.5vw; /* Use viewport width to scale text */
+          padding: 1vw; /* Adjust padding proportionally */
           background-color: #fff;
           border: 1px solid #ddd;
           border-radius: 5px;
           text-align: center;
           width: 100%; /* Make items fill the column */
-          height: auto; /* Let the height adjust based on content */
         }
       
         .list-group-item i {
-          font-size: 1em; /* Icon size scales with the font size */
-          margin-right: 5px; /* Adjust space between icon and text */
+          font-size: 2vw; /* Icon size scales with viewport width */
+          margin-right: 0.5vw; /* Adjust space between icon and text */
         }
       
         .list-group-item span {
           white-space: nowrap; /* Prevent text wrapping */
         }
       </style>
+      
       
       
           
