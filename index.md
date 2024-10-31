@@ -88,6 +88,35 @@
       }
     </style>
 
+    
+    <style>
+      /* Navbar button Styling */
+      .list-group-item {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 14px; /* Adjust text size if needed */
+        padding: 10px; /* Reduce padding for a compact look */
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin-bottom: 5px;
+      }
+    
+      .list-group-item i {
+        font-size: 20px; /* Adjust the icon size */
+        margin-right: 8px; /* Space between icon and text */
+      }
+    
+      .row {
+        margin-bottom: 10px; /* Add space between rows */
+      }
+    
+      .col-4, .col-6 {
+        padding: 0 5px; /* Add space between columns */
+      }
+    </style>
+
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
     <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   </head>
@@ -104,13 +133,27 @@
       <!-- Nav -->
       <nav>
         <div class="list-group">
-          <a href="#pubs" class="list-group-item"><i class="fa-solid fa-file"></i><span>Publications</span></a>
-          <a href="#talks" class="list-group-item"><i class="fa-solid fa-circle-play"></i><span>Talks</span></a>
-          <a href="#teach" class="list-group-item"><i class="fa-solid fa-graduation-cap"></i><span>Teaching</span></a>
-          <a href="#projects" class="list-group-item"><i class="fa-solid fa-toolbox"></i><span>Projects</span></a>
-          <a href="#about" class="list-group-item"><i class="fa-solid fa-user"></i><span>About Me</span></a>
+          <div class="row">
+            <div class="col-4">
+              <a href="#pubs" class="list-group-item"><i class="fa-solid fa-file"></i><span>Publications</span></a>
+            </div>
+            <div class="col-4">
+              <a href="#talks" class="list-group-item"><i class="fa-solid fa-circle-play"></i><span>Talks</span></a>
+            </div>
+            <div class="col-4">
+              <a href="#teach" class="list-group-item"><i class="fa-solid fa-graduation-cap"></i><span>Teaching</span></a>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-6">
+              <a href="#projects" class="list-group-item"><i class="fa-solid fa-toolbox"></i><span>Projects</span></a>
+            </div>
+            <div class="col-6">
+              <a href="#about" class="list-group-item"><i class="fa-solid fa-user"></i><span>About Me</span></a>
+            </div>
+          </div>
         </div>
-      </nav>
+      </nav>      
     </div>
 
     <!-- Main Content -->
@@ -154,7 +197,7 @@
               </ul>
 
               <h3 id="about">About Me</h3>
-              <p> Outside of math + CS, I enjoy playing basketball and chess.</p>
+              <p> Outside of math + CS, I enjoy lifting and playing basketball + chess.</p>
             </section>
           </div>
         </div>
