@@ -130,7 +130,7 @@
       }
     
       .list-group {
-        margin-top: 10px; /* Adds space between the separator and the buttons */
+        margin-top: 30px; /* Adds space between the separator and the buttons */
       }
     </style>
     
