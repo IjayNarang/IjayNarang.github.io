@@ -89,18 +89,27 @@
     </style>
 
 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
   </head>
   <body>
     <div id="sidebar">
-      <!-- Left Pane -->
+      <!-- Profile Pic -->
       <div id="logo" class="clearfix">
         <span class="image"><img src="profile_pic.PNG" alt="Me" class="img-circle" /></span>
         <h1 id="title">Ijay Narang</h1>
+      </div>
+
+      <hr class="custom-separator">
+
+      <!-- Emailz -->
+
+      <div>
         <span class="byline">in5787_at_princeton.edu</span>
         <span class="byline">ijay.narang_at_gmail.com</span>
       </div>
+
+      <hr class="custom-separator">
 
       <!-- Nav -->
       <nav>
@@ -112,10 +121,22 @@
           <a href="#about" class="list-group-item"><i class="fa-solid fa-user"></i><span>About Me</span></a>
         </div>
       </nav>
-            
-      
-          
     </div>
+
+    
+
+    <style>
+      .custom-separator {
+        border: 0;
+        border-top: 1px solid #ddd;
+        margin: 20px 0; /* Adjusts space above and below the separator */
+      }
+    
+      .list-group {
+        margin-top: 10px; /* Adds space between the separator and the buttons */
+      }
+    </style>
+    
 
     <!-- Main Content -->
     <div id="main-content">
