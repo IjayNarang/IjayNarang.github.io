@@ -131,12 +131,15 @@
         .custom-row {
           display: flex;
           justify-content: space-between;
-          margin-bottom: 8px; /* Adjust for a more compact look */
+          margin-bottom: 8px; /* Adjust for more compact rows */
+          flex-wrap: wrap; /* Allow wrapping to avoid overflow */
         }
       
         .custom-col {
           flex: 1;
           padding: 3px; /* Reduce padding between items */
+          min-width: 30%; /* Ensure a minimum width for columns */
+          max-width: 33%; /* Limit maximum width for columns */
         }
       
         .custom-half {
@@ -147,24 +150,26 @@
           display: flex;
           align-items: center;
           justify-content: center;
-          font-size: 12px; /* Reduce font size */
+          font-size: 1.2em; /* Font size scales with button size */
           padding: 6px; /* Reduce padding inside the buttons */
           background-color: #fff;
           border: 1px solid #ddd;
           border-radius: 5px;
           text-align: center;
-          max-width: 100px; /* Optional: limit the width */
+          width: 100%; /* Make items fill the column */
+          height: auto; /* Let the height adjust based on content */
         }
       
         .list-group-item i {
-          font-size: 16px; /* Reduce icon size */
-          margin-right: 5px; /* Reduce space between icon and text */
+          font-size: 1em; /* Icon size scales with the font size */
+          margin-right: 5px; /* Adjust space between icon and text */
         }
       
         .list-group-item span {
           white-space: nowrap; /* Prevent text wrapping */
         }
       </style>
+      
       
           
     </div>
