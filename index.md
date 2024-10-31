@@ -95,7 +95,7 @@
     <div id="sidebar">
       <!-- Left Pane -->
       <div id="logo" class="clearfix">
-        <span class="image"><img src="images/photo01.jpg" alt="Me" class="img-circle" /></span>
+        <span class="image"><img src="profile_pic.PNG" alt="Me" class="img-circle" /></span>
         <h1 id="title">Ijay Narang</h1>
         <span class="byline">in5787_at_princeton.edu</span>
         <span class="byline">ijay.narang_at_gmail.com</span>
