@@ -95,21 +95,18 @@
   <body>
     <div id="sidebar">
       <!-- Profile Pic -->
-      <div>
+      <div id="logo" class="clearfix">
         <span class="image"><img src="profile_pic.PNG" alt="Me" class="img-circle" /></span>
         <h1 id="title">Ijay Narang</h1>
       </div>
 
-      <hr class="custom-separator">
-
       <!-- Emailz -->
 
-      <div>
+      <div id="logo" class="clearfix">
         <span class="byline">in5787_at_princeton.edu</span>
         <span class="byline">ijay.narang_at_gmail.com</span>
       </div>
 
-      <hr class="custom-separator">
 
       <!-- Nav -->
       <nav>
