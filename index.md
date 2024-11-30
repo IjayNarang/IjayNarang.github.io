@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Ijay Narang</title>
@@ -13,7 +12,7 @@
     .wrapper {
       max-width: 1200px; /* Adjust based on your preference */
       margin: 20px auto; /* Centered with margin */
-      border: 5px solid #333; /* Thick border around the group */
+      border: 5px solid #0322be; /* Thick border around the group */
       box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3); /* Shading for the pop-out effect */
       border-radius: 10px; /* Rounded corners */
       overflow: hidden; /* Ensures content stays within the border */
