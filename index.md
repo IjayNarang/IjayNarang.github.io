@@ -66,19 +66,7 @@
     nav .list-group-item i {
       margin-right: 10px;
     }
-
-    /* Mobile-first adjustments */
-    @media (max-width: 768px) {
-      .flex-container {
-        flex-direction: column;
-      }
-
-      #sidebar {
-        border-right: none;
-        border-bottom: 2px solid #ddd; /* Subtle separator for stacked layout */
-        width: 100%;
-      }
-    }
+    
   </style>
 </head>
 <body>
