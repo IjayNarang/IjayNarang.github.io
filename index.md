@@ -4,8 +4,7 @@
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <meta name="description" content="" />
   <meta name="keywords" content="" />
-  <link href="css/fonts.css" rel="stylesheet" type="text/css" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
   <style>
@@ -14,20 +13,20 @@
       display: flex;
       flex-wrap: nowrap;
       min-height: 100vh;
+      margin: 0; /* Remove default body margin */
     }
 
     /* Sidebar styling */
     #sidebar {
-      flex: 1 1 20%;
+      flex: 0 0 250px; /* Fixed width for the sidebar */
       background: #f8f9fa;
       padding: 20px;
       border-right: 1px solid #ddd;
-      min-width: 200px;
-      max-width: 300px;
+      min-height: 100vh; /* Full-height sidebar */
     }
 
     #main-content {
-      flex: 3 1 80%;
+      flex: 1; /* Take the remaining width */
       padding: 20px;
     }
 
@@ -66,8 +65,7 @@
       #sidebar {
         border-right: none;
         border-bottom: 1px solid #ddd;
-        min-width: 100%;
-        max-width: 100%;
+        width: 100%;
       }
 
       #main-content {
