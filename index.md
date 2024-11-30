@@ -66,7 +66,7 @@
     nav .list-group-item i {
       margin-right: 10px;
     }
-    
+
   </style>
 </head>
 <body>
@@ -109,7 +109,7 @@
 
         <h3 id="pubs">Research</h3>
         <ul>
-          <li><strong>Expanding Square Complexes from Graph Products</strong>, Junior Thesis (Advised by Dr. Pedro Paredes), Giving Talk at Duke University Math Conference
+          <li><strong>Expanding Square Complexes from Graph Products</strong>, Junior Thesis (Advised by Dr. Pedro Paredes), Gave Talk at Duke University Math Conference
             <a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank">[View Paper Here]</a></li>
           <li><strong>An Overview of Utilizing Expanders to Enhance Error-Correcting Codes</strong>
             <a href="works/survey_on_expanders_in_coding_theory.pdf" target="_blank">[View Paper Here]</a></li>
