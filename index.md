@@ -134,7 +134,7 @@
         <ul>
           <li><strong>Compass:</strong> all-in-one Princeton University course planning app -- now reached 700+ users!
             The application is currently being maintained by Hoagie Club and renamed to HoagiePlan.
-            <a href="https://pucompass.com/" target="_blank">See the App Here</a>
+            <a href="https://plan.hoagie.io/" target="_blank">See the App Here</a>
           </li>
         </ul>
 
