@@ -109,6 +109,10 @@
 
         <h3 id="pubs">Research</h3>
         <ul>
+          <li><strong>On even-H-free Colorings</strong>, Advised by Dr. Noga Alon
+            <a href="works/even_H_free_colorings.pdf" target="_blank">[View Paper Here]</a>
+          </li>
+
           <li><strong>Expanding Square Complexes from Graph Products</strong>, Junior Thesis (Advised by Dr. Pedro Paredes), Gave Talk at Duke University Math Conference
             <a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank">[View Paper Here]</a></li>
           <li><strong>An Overview of Utilizing Expanders to Enhance Error-Correcting Codes</strong>
