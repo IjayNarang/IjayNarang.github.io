@@ -113,11 +113,9 @@
             <a href="works/even_H_free_colorings.pdf" target="_blank">[View Paper Here]</a>
           </li>
 
-          <li><strong>Expanding Square Complexes from Graph Products</strong>, Junior Thesis (Advised by Dr. Pedro Paredes), Gave Talk at Duke University Math Conference
-            <a href="works/expanding_square_complexes_from_graph_products.pdf" target="_blank">[View Paper Here]</a></li>
-          <li><strong>An Overview of Utilizing Expanders to Enhance Error-Correcting Codes</strong>
-            <a href="works/survey_on_expanders_in_coding_theory.pdf" target="_blank">[View Paper Here]</a></li>
-        </ul>
+          <li><strong>On Expansion, High-Dimensional Expanders, and
+            Applications in Coding Theory</strong>, Thesis (Advised by Dr. Pedro Paredes), 
+            <a href="works/thesis.pdf" target="_blank">[View Paper Here]</a></li>
 
         <h3 id="talks">Talks</h3>
         <ul>
