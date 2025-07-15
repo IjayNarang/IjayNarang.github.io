@@ -112,11 +112,13 @@
           <li><strong>On even-H-free Colorings</strong>, Advised by Dr. Noga Alon
             <a href="works/even_H_free_colorings.pdf" target="_blank">[View Paper Here]</a>
           </li>
+        
 
           <li><strong>On Expansion, High-Dimensional Expanders, and
             Applications in Coding Theory</strong>, Thesis (Advised by Dr. Pedro Paredes), 
             <a href="works/thesis.pdf" target="_blank">[View Paper Here]</a></li>
-
+        </ul>
+        
         <h3 id="talks">Talks</h3>
         <ul>
           <li><strong>Duke University Math Conference</strong>, Talk titled: <em>Expanding Square Complexes from Graph Products</em>
