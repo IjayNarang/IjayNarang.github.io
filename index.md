@@ -143,8 +143,7 @@
         <h3 id="about">About Me</h3>
         <p>Outside of math + CS, I enjoy lifting and playing basketball + chess.</p>
       </div>
-    </div>
-  </div>
+    
 
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
