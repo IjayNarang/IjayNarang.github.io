@@ -109,6 +109,10 @@
 
         <h3 id="pubs">Research</h3>
         <ul>
+          <li><strong>Sharp Inner Product Correlations for Hypercube Bijections</strong>, with Muchen Ju
+            <a href="works/sharp_inner_product_correlations_for_hypercube_bijections.pdf" target="_blank">[View Paper Here]</a>
+          </li>
+
           <li><strong>On even-H-free Colorings</strong>, Advised by Dr. Noga Alon
             <a href="works/even_H_free_colorings.pdf" target="_blank">[View Paper Here]</a>
           </li>
