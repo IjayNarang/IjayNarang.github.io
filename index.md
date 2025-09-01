@@ -103,9 +103,16 @@
 
       <!-- Main Content -->
       <div id="main-content">
-        <p>I'm a Senior at <a href="http://cs.princeton.edu" target="_blank">Princeton University</a> in the Department of Computer Science.</p>
-        <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular, I am interested in:
-          <br><u>Spectral Graph Theory</u>, <u>Coding Theory</u>, <u>Combinatorics</u>, and <u>Optimization</u>. I am fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.</p>
+        <p>I am a first-year PhD student in the Algorithms, Combinatorics, and Optimization (ACO) program within the School of Computing at Georgia Tech. <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular, I am interested in:
+          <br><u>Spectral Graph Theory</u>,  and <u> Combinatorial Optimization</u>. 
+          
+        <p>
+          I completed my undergraduate studies at 
+          <a href="http://cs.princeton.edu" target="_blank">Princeton University</a>, 
+          where I majored in Computer Science and minored in Applied Mathematics, Optimization, and Finance. 
+          During this time, I was fortunate to be advised by Dr. Pedro Paredes and Dr. Noga Alon.
+        </p>
+        
 
         <h3 id="pubs">Research</h3>
         <ul>
@@ -119,7 +126,7 @@
         
 
           <li><strong>On Expansion, High-Dimensional Expanders, and
-            Applications in Coding Theory</strong>, Thesis (Advised by Dr. Pedro Paredes), 
+            Applications in Coding Theory</strong>, Undergraduate Thesis (Advised by Dr. Pedro Paredes), 
             <a href="works/thesis.pdf" target="_blank">[View Paper Here]</a></li>
         </ul>
         
