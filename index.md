@@ -104,7 +104,7 @@
       <!-- Main Content -->
       <div id="main-content">
         <p>I am a first-year PhD student in the Algorithms, Combinatorics, and Optimization (ACO) program within the School of Computing at Georgia Tech. I am interested in:
-          <br><u>Applied Probability</u> and <u> Combinatorial Optimization</u>. 
+          <u>Applied Probability</u> and <u> Combinatorial Optimization</u>. 
           
         <p>
           I completed my undergraduate studies at 
