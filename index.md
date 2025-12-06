@@ -77,7 +77,7 @@
         <div id="logo">
           <img src="profile_pic.PNG" alt="Me" />
           <h1>Ijay Narang</h1>
-          <p class="byline">in5787_at_princeton.edu</p>
+          <p class="byline">inarang_at_gatech.edu</p>
           <p class="byline">ijay.narang_at_gmail.com</p>
         </div>
         <nav>
@@ -103,8 +103,8 @@
 
       <!-- Main Content -->
       <div id="main-content">
-        <p>I am a first-year PhD student in the Algorithms, Combinatorics, and Optimization (ACO) program within the School of Computing at Georgia Tech. <p>My primary research interest is in <strong>Theoretical Computer Science</strong>. In particular, I am interested in:
-          <br><u>Spectral Graph Theory</u>,  and <u> Combinatorial Optimization</u>. 
+        <p>I am a first-year PhD student in the Algorithms, Combinatorics, and Optimization (ACO) program within the School of Computing at Georgia Tech. I am interested in:
+          <br><u>Applied Probability</u> and <u> Combinatorial Optimization</u>. 
           
         <p>
           I completed my undergraduate studies at 
